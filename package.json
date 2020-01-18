@@ -1,0 +1,21 @@
+{
+  "name": "@tgrwb/js-dev-tools",
+  "version": "0.0.5",
+  "description": "Tools for WP themes and plugins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "archiver": "^3.0.0",
+    "ftp-deploy": "^2.1.4",
+    "ftp-sync-works": "0.0.7",
+    "ftps": "^1.1.1",
+    "ftpsync": "^0.2.0",
+    "sync-directory": "^2.0.8",
+    "watch": "^1.0.2",
+    "zip-folder": "^1.0.0"
+  }
+}
